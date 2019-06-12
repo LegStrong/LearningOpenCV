@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+
+*.ilk
+*.pdb
+*.VC.opendb
+
+.vs/
+
+
+x64/
